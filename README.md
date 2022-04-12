@@ -35,8 +35,10 @@ BowTeleport| Minecraft Bedrock Edition | Nukkit | API 1.0.13
 
 ---
 
+> * Link to cloudburstmc article -> [CloudburstMC](https://cloudburstmc.org/resources/bowteleport.798/)
+
+---
+
 ```
 Reporting bugs: If you come across a bug, please report it here or on cloudburstmc.
-`Link to cloudburstmc article` -> [CloudburstMC](https://cloudburstmc.org/resources/bowteleport.798/)
 ```
-`Link to cloudburstmc article` -> [CloudburstMC](https://cloudburstmc.org/resources/bowteleport.798/)
