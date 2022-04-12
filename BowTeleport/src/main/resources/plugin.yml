@@ -1,0 +1,5 @@
+main: reyd.BowTp
+name: BowTeleport
+version: 1.0.1
+api: ["1.0.13"]
+author: Reydovich
